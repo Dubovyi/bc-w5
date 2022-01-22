@@ -9,8 +9,8 @@ def array_increment(arr):
 if __name__ == '__main__':
     array = [1, 2, 3, 4, 5]
 
-    print(array)
+    print('array before increment', array)
     array = array_increment(array)
-    print(array)
+    print('array after increment', array)
 
 
