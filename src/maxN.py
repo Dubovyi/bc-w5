@@ -7,5 +7,4 @@ if __name__ == '__main__':
         tmp = int(input())
         array.append(tmp)
         i += 1
-
     print(max(array))
